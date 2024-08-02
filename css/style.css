@@ -51,9 +51,9 @@ nav {
  }
 
  #logo {
- 	width: 50px;
- 	height: 50px;
- 	margin-top: 25px;
+ 	width: 90px;
+ 	height: 120px;
+ 	margin-top: -5px;
  }
 
  .nav-container ul {
@@ -82,7 +82,7 @@ nav {
 /* banner  */
  #main-banner {
  	background-color: red;
- 	background: url('../img/cleocleo.jpg') no-repeat;
+ 	background: url('../img/alfajor.jpg') no-repeat;
  	background-size: cover;
  	background-position: 0 55%;
  	position: relative;
