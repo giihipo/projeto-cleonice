@@ -10,7 +10,8 @@ body {
 
 h1, h2, h3, h4, h5, p, span {
 	margin: 0;
-	color: #666;
+	color: #F0E68C;
+	text-stroke: #fff;
 }
 
 .container {
@@ -76,7 +77,7 @@ nav {
  }
 
  .nav-container li a:hover {
- 	color: #3381F3;
+ 	color: #EE82EE;
  }
 
 /* banner  */
@@ -100,7 +101,7 @@ nav {
  }
 
  #search-form h1 {
- 	font-size: 40px;
+ 	font-size: 44px;
  }
 
  #search-form p {
@@ -121,15 +122,15 @@ nav {
  }
 
 #search-form input[type=submit] {
- 	background-color: #3381f3;
+ 	background-color: #EE82EE;
  	text-transform: uppercase;
  	color: #FFF;
  	cursor: pointer;
- 	transition: 0.5s;
+ 	transition: 0.5s;        4B0082    EE82EE
  }
 
  #search-form input[type=submit]:hover {
- 	background-color: #2B79EB;
+ 	background-color: #4B0082;
  	/*background-color: #191970;*/
  }
 
